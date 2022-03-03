@@ -1,4 +1,4 @@
-# STIW3034-SoftwareTesting-GroupProject-Instagram
+# STIW3034-SoftwareTesting-GroupProject-Selenium-Instagram
 
 ## Group Info:
 
